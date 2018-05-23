@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TypeScriptCompiler">
+    <option name="isCompilerEnabled" value="true" />
+    <option name="nodeInterpreterTextField" value="E:/nvm/nodejs/node" />
+    <option name="scopeName" value="Typescript-SRC" />
+    <option name="generateSourceMap" value="false" />
+    <option name="hasOutDirectory" value="true" />
+    <option name="outDirectory" value="dist/js/" />
+    <option name="versionType" value="EMBEDDED" />
+  </component>
+</project>

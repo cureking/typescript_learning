@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"build": "tsc main.ts --module amd --target es5 --lib es2015,dom"
+	},
+	"devDependencies": {
+		"@types/jquery": "^3.2.16"
+	},
+	"dependencies": {
+		"jquery": "^3.2.1"
+	}
+}
